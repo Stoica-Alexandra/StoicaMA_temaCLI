@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\EGG\\Laborator_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EA0D11-75E5-4ACE-B52C-251BDB2A9531}|Laborator_03.csproj|c:\\users\\asus\\desktop\\egg\\laborator_03\\window3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EA0D11-75E5-4ACE-B52C-251BDB2A9531}|Laborator_03.csproj|solutionrelative:window3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EA0D11-75E5-4ACE-B52C-251BDB2A9531}|Laborator_03.csproj|c:\\users\\asus\\desktop\\egg\\laborator_03\\triangle3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EA0D11-75E5-4ACE-B52C-251BDB2A9531}|Laborator_03.csproj|solutionrelative:triangle3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EA0D11-75E5-4ACE-B52C-251BDB2A9531}|Laborator_03.csproj|c:\\users\\asus\\desktop\\egg\\laborator_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EA0D11-75E5-4ACE-B52C-251BDB2A9531}|Laborator_03.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window3D.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EGG\\Laborator_03\\Window3D.cs",
+              "RelativeDocumentMoniker": "Window3D.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EGG\\Laborator_03\\Window3D.cs",
+              "RelativeToolTip": "Window3D.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:23:23.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EGG\\Laborator_03\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EGG\\Laborator_03\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:23:21.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangle3D.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EGG\\Laborator_03\\Triangle3D.cs",
+              "RelativeDocumentMoniker": "Triangle3D.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EGG\\Laborator_03\\Triangle3D.cs",
+              "RelativeToolTip": "Triangle3D.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAkwHMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:21:07.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
