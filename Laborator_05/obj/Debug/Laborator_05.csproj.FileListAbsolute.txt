@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\facultate\EGC\Laborator5\Laborator_05\bin\Debug\Laborator_05.exe.config
+C:\Users\ASUS\Desktop\facultate\EGC\Laborator5\Laborator_05\bin\Debug\Laborator_05.exe
+C:\Users\ASUS\Desktop\facultate\EGC\Laborator5\Laborator_05\bin\Debug\Laborator_05.pdb
+C:\Users\ASUS\Desktop\facultate\EGC\Laborator5\Laborator_05\bin\Debug\OpenTK.dll
+C:\Users\ASUS\Desktop\facultate\EGC\Laborator5\Laborator_05\bin\Debug\OpenTK.pdb
+C:\Users\ASUS\Desktop\facultate\EGC\Laborator5\Laborator_05\bin\Debug\OpenTK.xml
+C:\Users\ASUS\Desktop\facultate\EGC\Laborator5\Laborator_05\obj\Debug\Laborator_05.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\facultate\EGC\Laborator5\Laborator_05\obj\Debug\Laborator_05.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\facultate\EGC\Laborator5\Laborator_05\obj\Debug\Laborato.CAEF9DBF.Up2Date
+C:\Users\ASUS\Desktop\facultate\EGC\Laborator5\Laborator_05\obj\Debug\Laborator_05.exe
+C:\Users\ASUS\Desktop\facultate\EGC\Laborator5\Laborator_05\obj\Debug\Laborator_05.pdb
