@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\facultate\\EGC\\Laborator4\\Laborator_04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21AC5614-CC06-472D-A9C1-F5C4C9AD9A0E}|Laborator_04.csproj|c:\\users\\asus\\desktop\\facultate\\egc\\laborator4\\laborator_04\\window3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AC5614-CC06-472D-A9C1-F5C4C9AD9A0E}|Laborator_04.csproj|solutionrelative:window3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window3D.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\facultate\\EGC\\Laborator4\\Laborator_04\\Window3D.cs",
+              "RelativeDocumentMoniker": "Window3D.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\facultate\\EGC\\Laborator4\\Laborator_04\\Window3D.cs",
+              "RelativeToolTip": "Window3D.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:13:16.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
