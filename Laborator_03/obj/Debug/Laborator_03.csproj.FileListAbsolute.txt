@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\EGG\Laborator_03\bin\Debug\Laborator_03.exe.config
+C:\Users\ASUS\Desktop\EGG\Laborator_03\bin\Debug\Laborator_03.exe
+C:\Users\ASUS\Desktop\EGG\Laborator_03\bin\Debug\Laborator_03.pdb
+C:\Users\ASUS\Desktop\EGG\Laborator_03\bin\Debug\OpenTK.dll
+C:\Users\ASUS\Desktop\EGG\Laborator_03\bin\Debug\OpenTK.pdb
+C:\Users\ASUS\Desktop\EGG\Laborator_03\bin\Debug\OpenTK.xml
+C:\Users\ASUS\Desktop\EGG\Laborator_03\obj\Debug\Laborator_03.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\EGG\Laborator_03\obj\Debug\Laborator_03.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\EGG\Laborator_03\obj\Debug\Laborato.BEB99DBF.Up2Date
+C:\Users\ASUS\Desktop\EGG\Laborator_03\obj\Debug\Laborator_03.exe
+C:\Users\ASUS\Desktop\EGG\Laborator_03\obj\Debug\Laborator_03.pdb
