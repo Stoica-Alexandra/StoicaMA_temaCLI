@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\e\Laborator_02\bin\Debug\Laborator_02.exe.config
+C:\Users\ASUS\Desktop\e\Laborator_02\bin\Debug\Laborator_02.exe
+C:\Users\ASUS\Desktop\e\Laborator_02\bin\Debug\Laborator_02.pdb
+C:\Users\ASUS\Desktop\e\Laborator_02\bin\Debug\OpenTK.dll
+C:\Users\ASUS\Desktop\e\Laborator_02\bin\Debug\OpenTK.pdb
+C:\Users\ASUS\Desktop\e\Laborator_02\bin\Debug\OpenTK.xml
+C:\Users\ASUS\Desktop\e\Laborator_02\obj\Debug\Laborator_02.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\e\Laborator_02\obj\Debug\Laborator_02.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\e\Laborator_02\obj\Debug\Laborato.C7549DBF.Up2Date
+C:\Users\ASUS\Desktop\e\Laborator_02\obj\Debug\Laborator_02.exe
+C:\Users\ASUS\Desktop\e\Laborator_02\obj\Debug\Laborator_02.pdb
